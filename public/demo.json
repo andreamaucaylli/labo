@@ -1,0 +1,14 @@
+{
+	"nombre": "Andrea",
+	"apellido": "Maucaylli",
+	"edad": "25",
+	"fechaNac": "25/06/1991",
+	"email": "andreamaucaylli@gmail.com",
+	"squad": "JSON's angels",
+	"jedi": "Sofia",
+	"hobbies": [
+		"Escuchar música",
+		"Leer",
+		"Bailar"
+	]
+}
